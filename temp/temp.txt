@@ -1,0 +1,2 @@
+srcsrc\mainsrc\testrestempres\drawablesres\vectorsres\iconsC:\Programming\JAVA нетология\Main\Games\src\main\Main.javaC:\Programming\JAVA нетология\Main\Games\src\main\Utils.javaC:\Programming\JAVA нетология\Main\Games\temp\temp.txt
+Все файлы были созданы успешно!
